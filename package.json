@@ -1,6 +1,6 @@
 {
   "name": "tixte-passport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport strategy for use with the Tixte OAuth (v2.0) API",
   "main": "lib/index.js",
   "repository": {
